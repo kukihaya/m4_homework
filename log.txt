@@ -1,4 +1,5 @@
-fb4a45d (HEAD -> task_1, origin/task_1) Task 2.1 done
+ded0d6e (HEAD -> task_1) Task 2.2 done
+fb4a45d (origin/task_1) Task 2.1 done
 daf4e51 Task 1.2 done
 d9da732 Task 1.1 done
 c808b53 (origin/main, origin/HEAD, main) Initial commit
